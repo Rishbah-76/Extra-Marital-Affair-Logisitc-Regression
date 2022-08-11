@@ -8,6 +8,7 @@ We are loding the data using the statsmodel.api<br/>
 Data Name: Fair
 
 ## Data Description
+
 :Number of observations: 6366
     Number of variables: 9
     Variable name definitions:
@@ -32,26 +33,26 @@ Data Name: Fair
         occupation_husb : Husband's occupation. Same as occupation.
         affairs         : measure of time spent in extramarital affairs
         
-        ## Overview :
-        We have trained the model using simple logistic regression, as the data was suprisingly sorted and scaled, which needed less Pre-Processing
-        
-        ## Confusion Matrix and Roc_Auc curve :
-        <table>
-          <tr>
-            <td>Confusion Matrix</td>
-             <td>ROC-AUCcurve</td>
-          </tr>
-          <tr>
-            <td><img src="/saves/cm.jpg" width=270 height=480></td>
-            <td><img src="/saves/auc_roc.jpg" width=270 height=480></td>
-          </tr>
-         </table>
-         <table>
-          <tr>
-            <td>Model accuracy</td>
-          </tr>
-          <tr>
-            <td><img src="/saves/model_acc.jpg" width=270 height=480></td>
-          </tr>
-         </table>
+## Overview :
+We have trained the model using simple logistic regression, as the data was suprisingly sorted and scaled, which needed less Pre-Processing
+
+## Confusion Matrix and Roc_Auc curve :
+<table>
+  <tr>
+    <td>Confusion Matrix</td>
+     <td>ROC-AUCcurve</td>
+  </tr>
+  <tr>
+    <td><img src="static/saves/1.jpg" </td>
+    <td><img src="static/saves/2.jpg" </td>
+  </tr>
+ </table>
+ <table>
+  <tr>
+    <td>Model accuracy</td>
+  </tr>
+  <tr>
+    <td><img src="static/saves/3.jpg"></td>
+  </tr>
+ </table>
         

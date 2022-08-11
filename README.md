@@ -9,7 +9,7 @@ Data Name: Fair
 
 ## Data Description
 
-:Number of observations: 6366
+    :Number of observations: 6366
     Number of variables: 9
     Variable name definitions:
 

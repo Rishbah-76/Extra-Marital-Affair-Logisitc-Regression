@@ -7,9 +7,9 @@ Project Description 📄
 We are loding the data using the statsmodel.api<br/>
 Data Name: Fair
 
-## Data Description
+## Data Description :
 
-    :Number of observations: 6366
+    Number of observations: 6366
     Number of variables: 9
     Variable name definitions:
 

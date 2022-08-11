@@ -43,8 +43,8 @@ We have trained the model using simple logistic regression, as the data was supr
      <td>ROC-AUCcurve</td>
   </tr>
   <tr>
-    <td><img src="static/saves/1.jpg" </td>
     <td><img src="static/saves/2.jpg" </td>
+    <td><img src="static/saves/1.jpg" </td>
   </tr>
  </table>
  <table>
